@@ -1,6 +1,6 @@
 ## 👋Hello Worlds🌎, I'm Ferry Kurniawan 
 
-![ai-bot](https://github.com/user-attachments/assets/3029c800-8695-42d2-8411-fcca1e567bf5)
+![haha](https://github.com/user-attachments/assets/b4d5eaf5-2a7e-4397-8908-ac01144b21e3)
 
 
     🎓 I’m graduated from SMK Negeri 1 Sambas
