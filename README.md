@@ -6,9 +6,9 @@
 
 <div align="center">
   <p>Skill</p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react" />
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,vscode" />
 </div>
